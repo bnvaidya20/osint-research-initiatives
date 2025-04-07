@@ -70,8 +70,6 @@ Both documents emphasize **compliance with GDPR, FOIPPA, and institutional priva
 If you use or build upon this work, please attribute appropriately:
 
 **Author:** Binod Vaidya  
-**Repository:**  
-**License:** CC BY-NC-SA 4.0 or specify your own
-
+**Repository:**  https://github.com/bnvaidya20/osint-research-initiatives
 
 
